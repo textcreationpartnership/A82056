@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and remonstrance of the present engagement of the kingdome of Scotland. With their resolutions and intentions (according to their late solemne League and Covenant) to establish the Presbyterian government in the church, to redeeme his Majesty from the hands of schismatickes, and place him in his Parliament, with honour and safety, to procure the peace of the three kingdoms, to vindicate the worthy members of Parliament, falsely impeached by the army, with the true priviledges of Parliament, and liberty of the subject. All which are not onely indangered, but by likelyhood ready to be destroyed, by the power of an over-awing tyrannicall army, under the conduct of Sir Thomas Fairfax.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82056</idno>
+            <idno type="STC">Wing D548</idno>
+            <idno type="STC">Thomason E402_14</idno>
+            <idno type="STC">ESTC R201823</idno>
+            <idno type="EEBO-CITATION">99862314</idno>
+            <idno type="PROQUEST">99862314</idno>
+            <idno type="VID">114468</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82056)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114468)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E402[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and remonstrance of the present engagement of the kingdome of Scotland. With their resolutions and intentions (according to their late solemne League and Covenant) to establish the Presbyterian government in the church, to redeeme his Majesty from the hands of schismatickes, and place him in his Parliament, with honour and safety, to procure the peace of the three kingdoms, to vindicate the worthy members of Parliament, falsely impeached by the army, with the true priviledges of Parliament, and liberty of the subject. All which are not onely indangered, but by likelyhood ready to be destroyed, by the power of an over-awing tyrannicall army, under the conduct of Sir Thomas Fairfax.</title>
+               </titleStmt>
+               <extent>8 p   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed in Edenborough, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: From Edenborough, August the 13. 1647.</note>
+                  <note>Annotation on Thomason copy: "Aug: 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114468:1" rendition="simple:additions"/>
+            <p>A DECLARATION AND REMONSTRANCE Of the preſent engagement of the Kingdome of SCOTLAND.</p>
+            <p>With their reſolutions and intentions (according to their late ſolemne League and Covenant) to eſtabliſh the Presbyterian Government in the Church, to redeeme his Majeſty from the hands of Schiſmatickes, and place him in his Parliament, with honour and ſafety, to pro<g ref="char:EOLhyphen"/>cure the peace of the three Kingdoms, to vindicate the worthy Members of Parliament, falſely impeached by the Army, with the true Priviledges of Parliament, and Liberty of the Subject.</p>
+            <p>All which are not onely indangered, but by likelyhood ready to be deſtroyed, by the power of an over-aw<g ref="char:EOLhyphen"/>ing tyrannicall Army, under the conduct of Sir <hi>Thomas Fairfax.</hi>
+            </p>
+            <p>
+               <add>Aug: 17</add> Printed in <hi>Edenborough,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114468:2"/>
+            <pb n="3" facs="tcp:114468:2"/>
+            <head>The Oath taken by the Parliament of <hi>Scotland,</hi> and by them preſcribed to be taken by all His Maje<g ref="char:EOLhyphen"/>ſties Loyall Subjects.</head>
+            <p>VVHereas it hath beene cuſtomarily uſed at all Nationall Aſſemblies, Parliaments, &amp; Coun<g ref="char:EOLhyphen"/>cells, that at our firſt comming together, to take a ſolemne Oath before God and Man; Proteſting not to determine or execute any thing contrary to the word of God, or prejudiciall to the honour of His Majeſty, only that all their ſtudies, indevours, councells and determi<g ref="char:EOLhyphen"/>nations, ſhould be imployed to the increaſe of Gods glory, the advancement of his Majeſties honour, and the peace, quiet, freedome, and bleſſed proſperity, of Kirke and Common<g ref="char:EOLhyphen"/>wealth, which Oath and Proteſtation, is as well for the in<g ref="char:EOLhyphen"/>ducement of others, (to wit all his Majeſties loyall Subjects) as themſelves, ſince it is not in their power to performe what they proteſt, without the aſſiſtance of ſuch his Majeſties ſub<g ref="char:EOLhyphen"/>jects, as ſhal be commanded by them, to the fulfilling of whoſe commands, ſuch an Oath and Proteſtation binds.</p>
+            <p>And to the end that none may bee ignorant or plead ex<g ref="char:EOLhyphen"/>cuſe, after themſelves have taken the ſaid Oath and Proteſtati<g ref="char:EOLhyphen"/>on, They cauſed to be publiſhed in Print, that every man may know what they have promiſed, and what they are to com<g ref="char:EOLhyphen"/>mand, and likewiſe what every ones duty is, and muſt be if he deſire to have any ſhare or portion in their Religious protecti<g ref="char:EOLhyphen"/>ons.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <head>An Oath taken by the Parliament in <hi>Scotland.</hi>
+                        </head>
+                        <p>FOr as much as the honour greatneſſe and happineſſe of the Kings Royall Majeſtie, and the welfare of the Subject, de<g ref="char:EOLhyphen"/>pendeth on the purity of Religion (as it is now eſtabliſhed in
+<pb n="4" facs="tcp:114468:3"/>this Kingdome) the Lawes, Liberties, and peace thereof, which ought to be ſought after by all good Chriſtians, Loyall Subjects, and true Patr<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ots, and to be furthered and maintai<g ref="char:EOLhyphen"/>ned by them againſt all ſuch as by any meanes endeavour to ſhake or ſubvert the ſame.</p>
+                        <p>Therefore we under ſcribers, and every one of us doe in the preſence of Almighty God promiſe, and vow, that in this preſent Parliament, wee ſhall faithfully and freely ſpeake, an<g ref="char:EOLhyphen"/>ſwere, and expreſſe our ſelves upon all and every thing which is or ſhall be propounded ſo far as wee thinke in our conſcience may conduce to the glory of God, the good and peace of the Kirke, and State of this Kingdome, and imploy our beſt en<g ref="char:EOLhyphen"/>deavours to promote the ſame, and ſhall in no way adviſe, voice nor conſent to any thing to our beſt knowledge, n<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> thinke not moſt expedient and conducible thereunto: As al<g ref="char:EOLhyphen"/>ſo that wee ſhall maintaine and defend with our lives, powers, and eſtate, his Majeſties Royall Perſon, Honour and Eſtate, as is expreſſed in our Nationall <hi>Covenant,</hi> and l<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>kewiſe the <hi>po<g ref="char:EOLhyphen"/>wer,</hi> and <hi>Priviledges</hi> of <hi>Parliament,</hi> and the lawfull <hi>Rights</hi> and <hi>Liberties</hi> of the <hi>S<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>bject,</hi> and by all good me<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nes and waies oppoſe, and endeavour to bring to exact tryall, all ſuch as either by force practiſe counſells, plots, conſpiracies, or o<g ref="char:EOLhyphen"/>ther w<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>yes have done, or ſhall doe any thing to the prejudice to the purity of <hi>Religion,</hi> the Lawes, Liberties, and peace of the Kingdome: And further that wee ſhall in all juſt, in all honourable wayes, endeavour to preſerve union and peace, be<g ref="char:EOLhyphen"/>twixt the three Kingdomes <hi>Scotland, England,</hi> and <hi>Ireland,</hi> and neither for hope, feare nor oth<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r reſpect ſhall relinquiſ<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> this vow and promiſe.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Thus conſidering how wee ſtand ingaged as well by this Oath as our late Solemne Nationall League and Covenant, <hi>to maintaine his Majeſties Royall Perſon, Honour and Eſtate,</hi> and
+<pb n="5" facs="tcp:114468:3"/>finding his Majeſty to be in apparent danger, and invironed with Sectaries, whoſe pernicious and deſtructive principles are well knowne unto us, to be directly againſt Monarchy, as may appeare by their late deſperate ſpeeches concerning his Majeſty (as by one <hi>Lilburne</hi> and many others) <hi>as that the Houſe of Commons ſhould thinke of that</hi>
+               <note n="*" place="margin">The juſt mans juſt<g ref="char:EOLhyphen"/>ification. pag. 1.</note> 
+               <hi>great murtherer of En<g ref="char:EOLhyphen"/>gland meaning the King, for by the impartiall Law of God, there is no exemptions of Kings, Princes, Dukes, Earles, more then Coblers, Tinkers, or Chimney-ſweepers, &amp;c.</hi>
+            </p>
+            <p>And in another place where they ſpeake more plainely<note n="*" place="margin">The Re<g ref="char:EOLhyphen"/>mon<g ref="char:EOLunhyphen"/>ſtr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce of many thouſands. page 6.</note>
+               <hi>we expect according to reaſon that yee ſhould in the firſt place declare and ſet forth King Charles his wickedneſſe openly before the world, and withall to ſhew the intollerable inconveniences of having a King<g ref="char:EOLunhyphen"/>ly Government from the conſtant evill practiſes of thoſe of this Nati<g ref="char:EOLhyphen"/>on, and ſo to declare King Charles an enemy, and to publiſh your re<g ref="char:EOLhyphen"/>ſolutions never to have any more.</hi>
+            </p>
+            <p>By theſe and the like ſpeeches, all reaſonable men may un<g ref="char:EOLhyphen"/>derſtand, what ſuch Sectaries (whatſoever they pretend,) intend for his Majeſties ſafety and honour, eſpecially ſince wee are bound by Oath to deliver his Majeſtie out of the hands of ſuch Miſcreans.
+<list>
+                  <item>1. We vow and Covenant to the utmoſt of our Lives and E<g ref="char:EOLhyphen"/>ſtates to effect the ſame.</item>
+                  <item>2. Conſider the great deſigne they drive at, which is to new mold the Houſe of Commons, better to effect which, they firſt ſuſpend Eleven Members, and ſo more and more ſuddenly, introducing many of their owne Independent Members in their roomes, that ſo (if poſſible,) they might, promote their wicked deſignes in a Parliamentary way.</item>
+                  <item>3. Conſider that they intend the ruine and deſtruction of the Houſe of Lords as may appeare by many of the Secta<g ref="char:EOLhyphen"/>ries printed Pamphlets and Petitions, as when the<note n="*" place="margin">Lambes Congre<g ref="char:EOLhyphen"/>gati.</note> Petition to the Houſe of Commons, where they ſay, That the Lords of this Realme ought not to ſit in Parliament, unleſſe they do come in by election, as Members of the Houſe of Commons doe: And in a Pamphlet againſt the Houſe of Lords, they ſay thus,<note n="*" place="margin">Juſt man in bonds. pag. 1.</note> 
+                     <hi>That the Lords are but painted Puppits, and Dagons,
+<pb n="6" facs="tcp:114468:4"/>that our ſuperſtition and ignorance their owne and craft and impu<g ref="char:EOLhyphen"/>dence, have erected no naturall iſſue of Lawes, but the Muſh<g ref="char:EOLhyphen"/>romes of Prerogatives, The weens of juſt Government, put in the body of the people to paine, as well as occaſioning deformity, ſonnes of conqueſt they are and uſurpation, not of choiſe and election, in<g ref="char:EOLhyphen"/>truded upon us by power, not conſtituted by conſent, not made by the people, whom all power, place, and office that is juſt, in this Kingdome ought onely to riſe.</hi> And in another place thus,<note n="*" place="margin">Pearle in a dunghil. pag 3.</note> 
+                     <hi>Why preſume yee thus, O yee Lords, ſet forth your merits before the people, remember your ſelves, or ſhall wee remember yee? which of you before this Parliament minded any thing ſo much as your pleaſure, Playes, Maſques, Feaſtings, huntings, Gamings, Dan<g ref="char:EOLhyphen"/>cings, &amp;c. For what other have you been, but a meere clog to the Houſe of Commons in all their proceedings, how many neceſſary things have you obſtructed, how many evill things have you pro<g ref="char:EOLhyphen"/>moted?</hi> And againe,<note n="*" place="margin">A Re<g ref="char:EOLunhyphen"/>mo<g ref="char:cmbAbbrStroke">̄</g>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>trance of <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>any thouſands p<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g 7.</note> 
+                     <hi>That the Lords muſt ſtand to be choſen as Knights and Burgeſſes by the people, as other the Freemen and Gentry of this Nation are:</hi> By all this is apparent that they in<g ref="char:EOLhyphen"/>tend the deſtroying of the Houſe of Lords.</item>
+                  <item>
+                     <p>4 They drive on for a Tolleration for all ſorts of Hereſies, and hereticall opinions, which they tearme <hi>Liberty of Con<g ref="char:EOLhyphen"/>ſcience;</hi> for they boldly aſſert,<note n="*" place="margin">W<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lli<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ms bloody <gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>en<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, pre<g ref="char:EOLhyphen"/>f<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ce pa. 2.</note> 
+                        <hi>That it is the will and command of God, that ſince the comming of his Son the Lord Jeſus Chriſt, a permiſſion of the moſt Paganiſh, Jewiſh, Turkiſh or Anti-chriſti<g ref="char:EOLhyphen"/>an c<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nſciences and worſhips being granted to all men, in all Na<g ref="char:EOLhyphen"/>tions and Countreys.</hi>
+                     </p>
+                     <p>And againe,<note n="*" place="margin">C<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oſ. Sam<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>. p<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 5.</note> 
+                        <hi>That Liberty of Conſcience is to be allowed by every man, to worſhip God in that way or manner as ſhall appeare to them m<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſt agreeable to Gods word:</hi> By the length of this foote we may gueſſe at the whole body, and what Babylo<g ref="char:EOLhyphen"/>niſh confuſion this will be, let all true Chriſtians judge.</p>
+                  </item>
+                  <item>5. That they intend (paſt intention, for they have done it already) to pull downe Orthodox and godly Miniſters, pla<g ref="char:EOLhyphen"/>ced in their Livings by Ordinance of Parliament, and to take upon th<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lves (though the very ſcumme of the people) the Paſto<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s office, abu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e godly Miniſter<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, ſaying, Their Mi<g ref="char:EOLhyphen"/>niſteriall calling is Antichriſtian, their maintenance Jewiſh,
+<pb n="7" facs="tcp:114468:4"/>their preaching illegall, and their perſons contemptible, pre<g ref="char:EOLhyphen"/>ferring before them Gromes of Stables, Botchers, Coblers, and all Mechanicks how ignorant ſoever.</item>
+                  <item>
+                     <p>6. That having a power (the ſword in their owne hands, as they have often bragged off) doe protect their owne In<g ref="char:EOLhyphen"/>dependent Members (who are guilty of Capitall Crimes) from a due and Legall tryall, they draine the City of London which now lyes at their mercy, of vaſt ſummes of moneyes, burden their Subburbs by free Quartering; and the like; re<g ref="char:EOLhyphen"/>tard the reliefe of Ireland, elect Members of their owne facti<g ref="char:EOLhyphen"/>ons, ſleight and ſet at naught the Houſe of Lords, keepe the King ſtill at a diſtance from the Parliament, liſt Souldiers continually, and yet would make us beleeve they intend<note n="*" place="margin">Having bottomed their pro<g ref="char:EOLhyphen"/>poſals, they pro<g ref="char:EOLhyphen"/>miſed to aquieſce.</note> peace; demand unreaſonable things of the Parliament, and more then they can honourably grant, ſeaz upon all the ſtrong holds and forts in the Kingdome, and muſt not be denyed any thing they aske.</p>
+                     <p>They accuſe Members of known integrity and faithfulnes to the Parliament and Kingdome, upon meere ſurmiſes, and la<g ref="char:EOLhyphen"/>mentable lame informations of ſome of their phantaſticke bre<g ref="char:EOLhyphen"/>thren, they reſiſt the ſolemne league and covenant, for uniting the two Kingdomes of Scotland and England, they diſſolve the Parliament, &amp; ſeek to new caſt it in an Independent mold. They countenance deſperate Malignants, who vindicate them in their proceedings, and ſuffer them to be about the perſon of the King.</p>
+                  </item>
+               </list>
+            </p>
+            <p>Theſe things having taken all into our ſerious conſiderati<g ref="char:EOLhyphen"/>ons, truly weighing them in an equall ballance, and laying them to heart, we cannot but apprehend what miſeries will be intayled upon us and our poſterities, if wee ſhall not ſtand as one man, in the name of all that have taken the Covenant with u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Humbly to petition the Parliament, for the ſpeedy disban<g ref="char:EOLhyphen"/>ding of the Army, ſo ſoone as their Arceers can be payd, De<g ref="char:EOLhyphen"/>clarations againſt them revoakt, and the act of Indempnity in<g ref="char:EOLhyphen"/>larged, That thoſe Counties that were petitioners to Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax,</hi> ſhould repreſent how ſurreptitiouſly the petiti<g ref="char:EOLhyphen"/>ons were gotten, by whom fomented, contrived, and ſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcri<g ref="char:EOLhyphen"/>bed,
+<pb n="8" facs="tcp:114468:5"/>that they may come to condigne puniſhment, for ſo high an affront againſt the Parliament: that the eleven Members may be againe taken into the Houſe, or others legally and fair<g ref="char:EOLhyphen"/>ly choſen, to attend the ſervice of the Houſe, till the charge can be proved againſt the accuſed. That none may be admit<g ref="char:EOLhyphen"/>ted Members of Parliament, or have any place of truſt in the Kingdome, that refuſe to take the ſolemne League and Cove<g ref="char:EOLhyphen"/>nant: that ſome perſons of truſt and valour (as Field Marſhall <hi>Skippon,</hi> or Major Generall <hi>Maſſie</hi>) may be put into ſupreame command for the affaires of <hi>Ireland:</hi> that his Majeſty may bee ſpeedily brought with honour and ſafety to the Parliament: that ſuch wholſome Lawes may be enacted that may procure a firme and laſting peace.</p>
+            <p>Elſe wee ſhall be enforced ſpeedily according to our Cove<g ref="char:EOLhyphen"/>nant to make ſuch proviſions of Armes, and other Millitary forces, as may ſecure our Religion, our King, Kingdome, and Parliament: And make no doubt of the bleſſing of God to<g ref="char:EOLhyphen"/>gether with cheerefull concurrence of all good people and well affected of both Kingdomes that deſire freedome from Sects, Schiſmes, and Hereticks, with inflamed vigor and ala<g ref="char:EOLhyphen"/>crity to oppoſe their enterpriſes, and maintaine the honour, &amp; Religion of both Kingdoms againſt all Tyrants whatſoever to the comfort of Gods people to the reſcuing and vindica<g ref="char:EOLhyphen"/>ting our wronged Brethren, delivering them out of the jawes of deſtruction, and the eſtabliſhing of truth and peace in theſe three Kingdomes.</p>
+            <closer>
+               <dateline>From Edenborough, <date>Auguſt, the 13. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
